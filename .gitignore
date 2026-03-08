@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Xcode user/build files
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Swift Package Manager
+.build/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
